@@ -1,0 +1,11 @@
+/Users/nathansepulveda/workspace/csharp/exercises/lists/bin/Debug/netcoreapp2.2/lists.deps.json
+/Users/nathansepulveda/workspace/csharp/exercises/lists/bin/Debug/netcoreapp2.2/lists.runtimeconfig.json
+/Users/nathansepulveda/workspace/csharp/exercises/lists/bin/Debug/netcoreapp2.2/lists.runtimeconfig.dev.json
+/Users/nathansepulveda/workspace/csharp/exercises/lists/bin/Debug/netcoreapp2.2/lists.dll
+/Users/nathansepulveda/workspace/csharp/exercises/lists/bin/Debug/netcoreapp2.2/lists.pdb
+/Users/nathansepulveda/workspace/csharp/exercises/lists/obj/Debug/netcoreapp2.2/lists.csprojAssemblyReference.cache
+/Users/nathansepulveda/workspace/csharp/exercises/lists/obj/Debug/netcoreapp2.2/lists.csproj.CoreCompileInputs.cache
+/Users/nathansepulveda/workspace/csharp/exercises/lists/obj/Debug/netcoreapp2.2/lists.AssemblyInfoInputs.cache
+/Users/nathansepulveda/workspace/csharp/exercises/lists/obj/Debug/netcoreapp2.2/lists.AssemblyInfo.cs
+/Users/nathansepulveda/workspace/csharp/exercises/lists/obj/Debug/netcoreapp2.2/lists.dll
+/Users/nathansepulveda/workspace/csharp/exercises/lists/obj/Debug/netcoreapp2.2/lists.pdb
